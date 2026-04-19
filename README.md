@@ -44,6 +44,8 @@ Feature importance from Random Forest is used to identify key biomarkers contrib
 •	Identified significant features influencing classification
 <img width="693" height="455" alt="image" src="https://github.com/user-attachments/assets/b797cfe8-154a-465b-888a-e50014f4f0e6" />
 
+Logistic Regression Accuracy: 0.9473684210526315
+Random Forest Accuracy: 0.9736842105263158
 
 
  How to Run

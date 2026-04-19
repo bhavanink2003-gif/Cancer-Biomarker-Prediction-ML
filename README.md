@@ -42,6 +42,8 @@ Feature importance from Random Forest is used to identify key biomarkers contrib
  Results
 •	Achieved high accuracy in predicting breast cancer
 •	Identified significant features influencing classification
+<img width="693" height="455" alt="image" src="https://github.com/user-attachments/assets/b797cfe8-154a-465b-888a-e50014f4f0e6" />
+
 
 
  How to Run
